@@ -22,3 +22,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## How to Start Project
+npm install
+then npm run serve To Run Fron-End (Client)
+node server.js To Run Back-End (Servr)
+
+for Database use MongoDB (In this project Local MongoDB connection setup is implemented)
